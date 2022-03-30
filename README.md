@@ -1,7 +1,7 @@
 # cracked.io auth js edition
 
 ## usage
-
+`npm i -s cio-auth`
 ### cjs
 ```js
 const cioAuth = require('cio-auth');
