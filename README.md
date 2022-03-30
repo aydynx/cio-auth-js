@@ -1,7 +1,9 @@
 # cracked.io auth js edition
 
 ## usage
-`npm i -s cio-auth`
+`npm i -s cio-auth`  
+
+if u want non authenticated users to be able to access your tools, add false as the first argument to the login function
 ### cjs
 ```js
 const cioAuth = require('cio-auth');
