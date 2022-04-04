@@ -3,7 +3,7 @@
 ## usage
 `npm i -s cio-auth`  
 
-if u want non authenticated users to be able to access your tools, add false as the first argument to the login function
+if u want non premium users to be able to use your tools, add false as the first argument to the login function
 ### cjs
 ```js
 const cioAuth = require('cio-auth');
